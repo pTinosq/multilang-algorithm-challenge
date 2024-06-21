@@ -2,3 +2,10 @@ node_modules/
 out/
 
 *.class
+
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
