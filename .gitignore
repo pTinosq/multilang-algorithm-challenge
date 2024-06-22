@@ -13,3 +13,13 @@ x64/
 *.exe
 *.pdb
 *.jar
+
+.DS_Store
+/.build
+/Packages
+xcuserdata/
+DerivedData/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
+*.db
