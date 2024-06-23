@@ -25,3 +25,4 @@ DerivedData/
 *.db
 
 *.o
+*.exe.obj
